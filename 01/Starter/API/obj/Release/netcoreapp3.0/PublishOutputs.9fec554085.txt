@@ -1,0 +1,11 @@
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Api.exe
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\appsettings.json
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Api.dll
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Api.deps.json
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Api.runtimeconfig.json
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Api.pdb
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Azure.Core.dll
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Azure.Storage.Blobs.dll
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Azure.Storage.Common.dll
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Flurl.dll
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\API\publish\Microsoft.Bcl.AsyncInterfaces.dll

@@ -1,0 +1,9 @@
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\Web.exe
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\appsettings.json
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\Web.dll
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\Web.deps.json
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\Web.runtimeconfig.json
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\Web.pdb
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\Newtonsoft.Json.dll
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\Web.Views.dll
+C:\Users\bibhu\OneDrive\Workspace\AzureDevOps\AzLabs\01\Starter\Web\publish\Web.Views.pdb
